@@ -1,0 +1,5 @@
+The number of faces in No1 image is:2
+The number of faces in No2 image is:0
+The number of faces in No3 image is:4
+The number of faces in No4 image is:0
+The number of faces in No5 image is:0
